@@ -1,0 +1,16 @@
+{
+    "name": "zhougen/hdphp",
+    "description": "this is hdphp",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhougeng",
+            "email": "925066118@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gregwar/captcha": "dev-master"
+    }
+}
